@@ -9,7 +9,11 @@ import {
   RevenueChartSkeleton,
   LatestInvoicesSkeleton,
   CardsSkeleton,
-} from '@/app/ui/skeletons';
+} from '@/app/ui/skeletons';import { Metadata } from 'next';
+ 
+export const metadata: Metadata = {
+  title: 'Dashboard',
+};
 
 export const dynamic = 'force-dynamic';
 
