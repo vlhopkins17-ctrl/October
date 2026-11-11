@@ -2,6 +2,7 @@
   "private": true,
   "packageManager": "pnpm@12.15.0",
   "scripts": {
+    "preinstall": "npx only-allow pnpm",
     "build": "next build",
     "dev": "next dev --turbopack",
     "start": "next start",
