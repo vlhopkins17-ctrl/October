@@ -12,7 +12,7 @@ Use these credentials to login;
 Email: user@nextmail.com
 Password: 123456
 
-🔗 **Live Demo:** (https://october-3y51xg005-vlhopkins17-8498.vercel.app/)
+🔗 **Live Demo:** (https://october-at10328v6-vlhopkins17-8498.vercel.app/)
 ![Dashboard Preview](./public/Acme.png)
 
 ## Features
