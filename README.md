@@ -8,6 +8,9 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 # Financial Dashboard
 
 A full-stack financial dashboard built with Next.js, TypeScript, and PostgreSQL. Users can authenticate securely, view real-time revenue analytics, and create, search, update, and delete customer invoices.
+Use these credentials to login;
+Email: user@nextmail.com
+Password: 123456
 
 🔗 **Live Demo:** (https://october-3y51xg005-vlhopkins17-8498.vercel.app/)
 ![Dashboard Preview](./public/Acme.png)
