@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Next.js App Router Course - Starter
 
 This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
@@ -11,7 +10,7 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 A full-stack financial dashboard built with Next.js, TypeScript, and PostgreSQL. Users can authenticate securely, view real-time revenue analytics, and create, search, update, and delete customer invoices.
 
 🔗 **Live Demo:** (https://october-3y51xg005-vlhopkins17-8498.vercel.app/)
-![Dashboard Preview](./public/preview.png)
+![Dashboard Preview](./public/Acme.png)
 
 ## Features
 
